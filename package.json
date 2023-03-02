@@ -1,0 +1,23 @@
+{
+  "name": "zenn_discordjs_code",
+  "version": "1.0.0",
+  "description": "test code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isana-Citrus/zenn_discordjs_code.git"
+  },
+  "author": "isana_citrus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isana-Citrus/zenn_discordjs_code/issues"
+  },
+  "homepage": "https://github.com/isana-Citrus/zenn_discordjs_code#readme",
+  "dependencies": {
+    "date-utils": "^1.2.21",
+    "discord.js": "^14.7.1"
+  }
+}
